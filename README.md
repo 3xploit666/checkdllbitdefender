@@ -34,7 +34,7 @@ This Rust project is designed to enumerate loaded modules within a process, iden
 Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/module-enumerator.git](https://github.com/3xploit666/checkdllbitdefender)
+git clone https://github.com/3xploit666/checkdllbitdefender
 cd checkdllbitdefender
 cargo build
 ```
