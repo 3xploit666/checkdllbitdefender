@@ -44,6 +44,9 @@ cd checkdllbitdefender
 cargo build
 ```
 
+<p align="center">
+  <img src="/assets/poc2.png">
+</p>
 
 
 ```bash
