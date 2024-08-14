@@ -2,6 +2,11 @@
 
 This Rust project is designed to enumerate loaded modules within a process, identify suspicious modules, and apply patches to functions in memory, particularly focusing on detecting and unhooking potential hooks in critical functions like `CreateRemoteThreadEx` and `NtWriteVirtualMemory`.
 
+<p align="center">
+  <img src="/assets/poc">
+</p>
+
+
 ## Features
 
 - **Module Enumeration:** Enumerates all modules loaded in the current process.
